@@ -1,8 +1,6 @@
-# Project template for GEO511
-
-[![main](https://github.com/AdamWilsonLabEDU/geo511_project_template/workflows/main/badge.svg)](https://github.com/AdamWilsonLabEDU/geo511_project_template/actions)
+# Project template
 
 ## Background
-This repository serves as a template for the final project in _Spatial Data Science_, (GEO511) a course held at the University at Buffalo.  
+This repository serves as a template for the masters of science project in Earth System Sciences of John Mernitz at the University of Buffalo.
 
 
